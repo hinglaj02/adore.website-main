@@ -33,22 +33,7 @@ include 'inc/config.php';
         
        
         
-        <footer class="footer-section">
-			<div class="container">
-                <div class="row">
-                    <div class="col-md-6 sm-padding">
-                        <div class="copyright">&copy; 2021 Charitify Powered by DynamicLayers</div>
-                    </div>
-                    <div class="col-md-6 sm-padding">
-                        <ul class="footer-social">
-                            <li><a href="#">Orders</a></li>
-                            <li><a href="#">Terms</a></li>
-                            <li><a href="#">Report Problem</a></li>
-                        </ul>
-                    </div>
-                </div>
-			</div>
-		</footer><!-- /Footer Section -->
+       
         
 		<a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
 	
