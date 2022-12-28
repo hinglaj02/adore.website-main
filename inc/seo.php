@@ -5,4 +5,4 @@
        
         <title>Charitify || NGO/Charity/Fundraising Template</title>
         
-		<link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
