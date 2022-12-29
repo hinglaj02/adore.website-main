@@ -8,13 +8,17 @@
 
 <body>
   <div class="content-wrapper">
-    <?php include 'snips/recent_stories.php' ?>
+
+<?php include 'snips/recent_stories.php' ?>
    
+  </div>
+  <div>
+    <?php include 'snips/recent_causes' ?>
   </div>
   <?php include 'snips/sponsors.php'?>
   
   <?php include 'snips/footer.php' ?>
-  <?php include 'snips/scripts_index1.php' ?>
+  <?php include 'snips/script_index1.php' ?>
 
 </body>
 
