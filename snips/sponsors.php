@@ -10,7 +10,7 @@
                     </li>
                     <li class="sponsor-item">
                         <img src="assets/img/sponsor-3.png" alt="sponsor-image">
-                    </li>
+                    </li> 
                     <li class="sponsor-item">
                         <img src="assets/img/sponsor-4.png" alt="sponsor-image">
                     </li>
