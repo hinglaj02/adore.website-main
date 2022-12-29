@@ -7,6 +7,9 @@
 </head>
 
 <body>
+  
+  <?php include 'snips/recent_causes.php' ?>
+  
   <div class="content-wrapper">
     <?php include 'snips/recent_stories.php' ?>
    

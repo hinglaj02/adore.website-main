@@ -13,7 +13,7 @@
    
   </div>
   <div>
-    <?php include 'snips/recent_causes' ?>
+   
   </div>
   <?php include 'snips/sponsors.php'?>
   
