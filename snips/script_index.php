@@ -32,3 +32,4 @@
 		<script src="assets/js/contact.js"></script>
 		<!-- Main JS -->
 		<script src="assets/js/main.js"></script>
+		<script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
