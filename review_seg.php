@@ -14,7 +14,7 @@
   <?php include 'snips/sponsors.php'?>
   
   <?php include 'snips/footer.php' ?>
-  <?php include 'snips/scripts_index1.php' ?>
+  <?php include 'snips/script_index1.php' ?>
 
 </body>
 
