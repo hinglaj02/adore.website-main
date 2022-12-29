@@ -1,7 +1,8 @@
-  
-        <div class="site-preloader-wrap">
+
+
+<!-- <div class="site-preloader-wrap">
             <div class="spinner"></div>
-        </div><!-- Preloader -->
+        </div>Preloader -->
         
         <header id="header" class="header-section">
             <div class="top-header">
@@ -69,4 +70,3 @@
         </header><!-- /Header Section -->
         
         <div class="header-height"></div>
-        <a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
