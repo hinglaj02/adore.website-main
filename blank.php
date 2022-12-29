@@ -1,17 +1,17 @@
 <?php
-include 'inc/config.php';
+include 'snips/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <?php include 'inc/seo.php' ?>
-  <?php include 'inc/css.php' ?>
+  <?php include 'snips/seo.php' ?>
+  <?php include 'snips/css.php' ?>
 </head>
 
 <body>
   <div class="content-wrapper">
-    <?php include 'inc/header.php' ?>
+    <?php include 'snips/header.php' ?>
     <!-- /header -->
   
                 <div class="page-content">
@@ -38,7 +38,7 @@ include 'inc/config.php';
 		<a data-scroll href="#header" id="scroll-to-top"><i class="arrow_up"></i></a>
 	
   </div>
-  <?php include 'assets/inc/scripts.php' ?>
+  <?php include 'snips/scripts.php' ?>
 </body>
 
 </html>
